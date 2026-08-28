@@ -1,0 +1,76 @@
+{
+  "item": {
+    "id": "com.renjiao.gaozhong.english.word.xiaomi",
+    "restype": "quick_app",
+    "name": "高中人教版英语词汇",
+    "description": "专为高中生打造的小米手环Vela快应用！本应用完整收录了高中人教版英语教材的所有核心词汇，并进行了按每本书每个单元分门别类。无需随身携带厚重的课本，同学们只需抬起手腕，即可随时随地查阅单词，完美实现与课堂教学进度的同步。告别场景限制，利用碎片时间高效记忆。本应用承诺永久完全免费，助力你的英语学习之旅！\n【高中人教版英语词汇】小米手环Vela快应用\n核心特性：\n1. 完整收录：涵盖高中人教版英语全部词汇，按单元精细分类。\n2. 进度同步：紧跟课本学习进度，随时随地查漏补缺。\n3. 抬腕即查：摆脱实体书本束缚，完美适配手环的小屏交互，让碎片时间更有价值。\n4. 纯净免费：个人开发者用心制作，永久完全免费。",
+    "preview": [
+      "media/xiaomi_band-2026-08-26-11-20-20.png",
+      "media/xiaomi_band-2026-08-26-11-20-26.png",
+      "media/xiaomi_s4-2026-08-26-11-02-35.png",
+      "media/xiaomi_s4-2026-08-26-11-03-31.png",
+      "media/xiaomi_band_pro-2026-08-26-11-19-59.png",
+      "media/xiaomi_band_pro-2026-08-26-11-20-06.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/Gemini_Generated_Image_s9o60s9o60s9o60s.jpg",
+    "author": [
+      {
+        "name": "bandbbs_3746275",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmrw5xring": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmrw6": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmb10": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmb10p": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmb9": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmb9p": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmws441": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmws4": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    },
+    "xmws5": {
+      "version": "1.2.0",
+      "file_name": "downloads/com.renjiao.gaozhong.english.word.xiaomi.debug.1.2.0.rpk"
+    }
+  },
+  "ext": {}
+}
